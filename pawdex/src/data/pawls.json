@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "nome": "Lamball",
+    "tipo": "Neutro",
+    "imagem": "https://placehold.co/200x200?text=Lamball",
+    "atributos": { "ataque": 70, "defesa": 70, "velocidade": 550 }
+  },
+  {
+    "id": 2,
+    "nome": "Cattiva",
+    "tipo": "Neutro",
+    "imagem": "https://placehold.co/200x200?text=Cattiva",
+    "atributos": { "ataque": 70, "defesa": 70, "velocidade": 550 }
+  },
+  {
+    "id": 3,
+    "nome": "Chikipi",
+    "tipo": "Neutro",
+    "imagem": "https://placehold.co/200x200?text=Chikipi",
+    "atributos": { "ataque": 60, "defesa": 60, "velocidade": 500 }
+  },
+  {
+    "id": 4,
+    "nome": "Lifmunk",
+    "tipo": "Grama",
+    "imagem": "https://placehold.co/200x200?text=Lifmunk",
+    "atributos": { "ataque": 75, "defesa": 70, "velocidade": 600 }
+  },
+  {
+    "id": 5,
+    "nome": "Fuack",
+    "tipo": "Água",
+    "imagem": "https://placehold.co/200x200?text=Fuack",
+    "atributos": { "ataque": 65, "defesa": 60, "velocidade": 600 }
+  },
+  {
+    "id": 6,
+    "nome": "Vixy",
+    "tipo": "Neutro",
+    "imagem": "https://placehold.co/200x200?text=Vixy",
+    "atributos": { "ataque": 70, "defesa": 70, "velocidade": 600 }
+  },
+  {
+    "id": 7,
+    "nome": "Celaray",
+    "tipo": "Água",
+    "imagem": "https://placehold.co/200x200?text=Celaray",
+    "atributos": { "ataque": 75, "defesa": 80, "velocidade": 700 }
+  },
+  {
+    "id": 8,
+    "nome": "Cremis",
+    "tipo": "Neutro",
+    "imagem": "https://placehold.co/200x200?text=Cremis",
+    "atributos": { "ataque": 70, "defesa": 70, "velocidade": 550 }
+  },
+  {
+    "id": 9,
+    "nome": "Rooby",
+    "tipo": "Fogo",
+    "imagem": "https://placehold.co/200x200?text=Rooby",
+    "atributos": { "ataque": 75, "defesa": 75, "velocidade": 550 }
+  },
+  {
+    "id": 10,
+    "nome": "Pengullet",
+    "tipo": "Água / Gelo",
+    "imagem": "https://placehold.co/200x200?text=Pengullet",
+    "atributos": { "ataque": 70, "defesa": 70, "velocidade": 550 }
+  },
+  {
+    "id": 11,
+    "nome": "Penking",
+    "tipo": "Água / Gelo",
+    "imagem": "https://placehold.co/200x200?text=Penking",
+    "atributos": { "ataque": 100, "defesa": 95, "velocidade": 600 }
+  },
+  {
+    "id": 12,
+    "nome": "Jolthog",
+    "tipo": "Eletricidade",
+    "imagem": "https://placehold.co/200x200?text=Jolthog",
+    "atributos": { "ataque": 70, "defesa": 70, "velocidade": 600 }
+  },
+  {
+    "id": 13,
+    "nome": "Gumoss",
+    "tipo": "Grama / Terra",
+    "imagem": "https://placehold.co/200x200?text=Gumoss",
+    "atributos": { "ataque": 70, "defesa": 70, "velocidade": 450 }
+  },
+  {
+    "id": 14,
+    "nome": "Tanzee",
+    "tipo": "Grama",
+    "imagem": "https://placehold.co/200x200?text=Tanzee",
+    "atributos": { "ataque": 80, "defesa": 70, "velocidade": 600 }
+  },
+  {
+    "id": 15,
+    "nome": "Depresso",
+    "tipo": "Escuridão",
+    "imagem": "https://placehold.co/200x200?text=Depresso",
+    "atributos": { "ataque": 70, "defesa": 70, "velocidade": 500 }
+  },
+  {
+    "id": 16,
+    "nome": "Daedream",
+    "tipo": "Escuridão",
+    "imagem": "https://placehold.co/200x200?text=Daedream",
+    "atributos": { "ataque": 80, "defesa": 75, "velocidade": 550 }
+  },
+  {
+    "id": 17,
+    "nome": "Rushoar",
+    "tipo": "Terra",
+    "imagem": "https://placehold.co/200x200?text=Rushoar",
+    "atributos": { "ataque": 80, "defesa": 70, "velocidade": 600 }
+  },
+  {
+    "id": 18,
+    "nome": "Nox",
+    "tipo": "Escuridão",
+    "imagem": "https://placehold.co/200x200?text=Nox",
+    "atributos": { "ataque": 85, "defesa": 75, "velocidade": 600 }
+  },
+  {
+    "id": 19,
+    "nome": "Fuddler",
+    "tipo": "Terra",
+    "imagem": "https://placehold.co/200x200?text=Fuddler",
+    "atributos": { "ataque": 65, "defesa": 80, "velocidade": 500 }
+  },
+  {
+    "id": 20,
+    "nome": "Killamari",
+    "tipo": "Escuridão",
+    "imagem": "https://placehold.co/200x200?text=Killamari",
+    "atributos": { "ataque": 75, "defesa": 65, "velocidade": 550 }
+  },
+  {
+    "id": 21,
+    "nome": "Mau",
+    "tipo": "Escuridão",
+    "imagem": "https://placehold.co/200x200?text=Mau",
+    "atributos": { "ataque": 65, "defesa": 70, "velocidade": 600 }
+  },
+  {
+    "id": 22,
+    "nome": "Celaray Lux",
+    "tipo": "Água / Eletricidade",
+    "imagem": "https://placehold.co/200x200?text=Celaray+Lux",
+    "atributos": { "ataque": 80, "defesa": 80, "velocidade": 700 }
+  },
+  {
+    "id": 23,
+    "nome": "Foxparks",
+    "tipo": "Fogo",
+    "imagem": "https://placehold.co/200x200?text=Foxparks",
+    "atributos": { "ataque": 75, "defesa": 70, "velocidade": 550 }
+  },
+  {
+    "id": 24,
+    "nome": "Hoocrates",
+    "tipo": "Escuridão",
+    "imagem": "https://placehold.co/200x200?text=Hoocrates",
+    "atributos": { "ataque": 70, "defesa": 70, "velocidade": 600 }
+  },
+  {
+    "id": 25,
+    "nome": "Teafant",
+    "tipo": "Água",
+    "imagem": "https://placehold.co/200x200?text=Teafant",
+    "atributos": { "ataque": 60, "defesa": 60, "velocidade": 400 }
+  },
+  {
+    "id": 26,
+    "nome": "Direhowl",
+    "tipo": "Neutro",
+    "imagem": "https://placehold.co/200x200?text=Direhowl",
+    "atributos": { "ataque": 110, "defesa": 75, "velocidade": 800 }
+  },
+  {
+    "id": 27,
+    "nome": "Tocotoco",
+    "tipo": "Neutro",
+    "imagem": "https://placehold.co/200x200?text=Tocotoco",
+    "atributos": { "ataque": 75, "defesa": 60, "velocidade": 550 }
+  },
+  {
+    "id": 28,
+    "nome": "Flopie",
+    "tipo": "Grama",
+    "imagem": "https://placehold.co/200x200?text=Flopie",
+    "atributos": { "ataque": 75, "defesa": 70, "velocidade": 550 }
+  },
+  {
+    "id": 29,
+    "nome": "Mozzarina",
+    "tipo": "Neutro",
+    "imagem": "https://placehold.co/200x200?text=Mozzarina",
+    "atributos": { "ataque": 80, "defesa": 80, "velocidade": 500 }
+  },
+  {
+    "id": 30,
+    "nome": "Bristla",
+    "tipo": "Grama",
+    "imagem": "https://placehold.co/200x200?text=Bristla",
+    "atributos": { "ataque": 75, "defesa": 75, "velocidade": 550 }
+  }
+]
