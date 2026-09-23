@@ -8,7 +8,7 @@ return(
 <header className="header">
 
 
-<h1>🐾 Pawldex</h1>
+<h1>Pawldex</h1>
 
 
 <nav>
